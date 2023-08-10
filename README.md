@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nitheeshraajar" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="nitheeshraajar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iamnitheesh_/" target="blank"><img align="center" src="https://github.com/Madraceee/Madraceee/assets/100791797/c2e02ad1-f719-476e-9f8d-e2e72625c180" alt="iamnitheesh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamnitheesh_/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="iamnitheesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madraceee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madraceee" height="30" width="40" /></a>
 </p>
 
@@ -45,14 +45,14 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
      <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://getfoundry.sh/logo.png" alt="Foundry" width="40" height="40"/> </a>  
-     <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/5a47843d-152d-4b46-b3dd-b08885992eb3" alt="Foundry" width="40" height="40"/> </a>      
+     <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Foundry" width="40" height="40"/> </a>      
 
 
   <h4 align="left">Others</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/1ce7e240-443d-4103-b441-cdd8996085c5" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
