@@ -30,19 +30,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <h4 align="left">Languages</h4>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/39b8e26f-6cb2-4dc0-ba07-bbd5905671bd" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/fa59ed79-320b-49ab-9e8a-f98ae2d4c2f3" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/50c1245b-d99b-40f6-a0ff-c974feeffb77" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/4c020147-7018-496a-9da8-a2a282b4d786" alt="css3" width="40" height="40"/> </a>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/aa2fcddb-f20b-4358-b4f7-a28dce2ceb91" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/0d654423-fa83-4c8b-82c9-9c4134d6a312" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/999ac61673796a0151eef10879275094b94e4cdf8633a61c01819c6504dcb6d9/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f6a732e706e67" alt="javascript" width="40" height="40"/> </a>  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://docs.soliditylang.org/en/v0.8.21/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
 
   <h4 align="left">Frameworks</h4>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/e736928e-7a5d-4cea-8a87-bc325823d474" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/430d24d9-50fc-46d8-9e5b-f9855b8af476" alt="react" width="40" height="40"/> </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/ebdd5492-d7d1-48a6-b334-187d18330baa" alt="redux" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
      <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://getfoundry.sh/logo.png" alt="Foundry" width="40" height="40"/> </a>  
      <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Madraceee/Madraceee/assets/100791797/5a47843d-152d-4b46-b3dd-b08885992eb3" alt="Foundry" width="40" height="40"/> </a>      
