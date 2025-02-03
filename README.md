@@ -10,7 +10,7 @@
 - 📫 How to reach me **nitheeshraaja@gmail.com**
 
 - ⚡ Fun fact -> **Coder by day Caped crusader by night**
-- 🌎 Personal Website -> https://madraceee-portfolio.vercel.app/
+- 🌎 Personal Website -> iamnitheesh.com
 
 <h2 align="center">About Me</h2>
 <p align="justify">Greetings! I'm Nitheesh, a passionate Web3 Developer based in India. My journey in the world of technology began with a curious exploration of programming languages, and it has evolved into a fervor for crafting innovative and decentralized digital experiences.</p>
