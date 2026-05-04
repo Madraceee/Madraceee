@@ -1,6 +1,3 @@
-Learning
-Building
-Tinkering
+## Learning | Building | Tinkering
 
-Blog -> [Blog](https://blog.iamnitheesh.com)
-Website -> [Website](https://www.iamnitheesh.com)
+**[Blog](https://blog.iamnitheesh.com)** • **[Website](https://www.iamnitheesh.com)**
